@@ -5,7 +5,7 @@
 ### *Project 1. Simona Halep  - patterns of play in women's tennis*
 
 * **Overview:** 
-Simona Halep is a romanian tennis player that had a rapid rise in the rankings in the last 3 years ( 2012 - Top 50 Players, 2013 - No. 11, 2014 - No. 3, 2015 -No. 2). As tennis is a game of patterns, the scope of this project is to make an analysis of the way Simona Halep has changed her game from a lower ranked player to a Top 5 competitor.
+Simona Halep is a Romanian tennis player that had a rapid rise in the rankings in the last 3 years ( 2012 - Top 50 Player, 2013 - No. 11, 2014 - No. 3, 2015 - No. 2). As tennis is a game of patterns, the goal of this project is to make an analysis of the way Simona Halep has changed her game from a lower ranked player to a Top 5 competitor.
 
 * **Questions of interest:**
     + Did the serve changed?
@@ -28,7 +28,7 @@ A start-up company that develops a system of digitised content for schools and t
     + Which is the most interesting class based on the students reviews?
 
 * **Data:** 
-The dataset available on GitHub 
+The dataset available on as JSON records in keen.io
 
 ### *Project 3. Building a Data Mart for Demand Forecasting in an automotive company*
 * **Overview:**
