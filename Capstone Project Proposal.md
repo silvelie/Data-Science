@@ -29,7 +29,7 @@ Questions of interest:
     
 + What are her most succesful tournaments and surfaces?
     
-+ What is her most frequent type of winning shot and most common error? How shots varies per unforced error/winner/forced error?
++ What is her most frequent type of winning shot and most common error? How shots vary per unforced error/winner/forced error?
 
 ### 5. Deliverables
 
