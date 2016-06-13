@@ -13,7 +13,7 @@ Does she have the game to compete with the best on regular basis and if not, wha
    
 ### 2. Target audience
 
-The analysis can be published on tennis sites as "Patterns of Play" tutorials. The information can be of good use for tennis commentators or coaches,
+The analysis can be published on tennis sites as "Patterns of Play" tutorials. The information can be of good use for tennis commentators or coaches.
     
 ### 3. Data
 
