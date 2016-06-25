@@ -1,0 +1,28 @@
+
+
+Csv files used from:
+
+https://github.com/JeffSackmann/tennis_MatchChartingProject
+
+Initial format of the data - variables:
+
+1. match_id (including date, gender, tournament, round, player 1 and player 2 separated by "-")
+2. player
+3. set
+4. serve_pts
+5. aces
+6. dfs
+7. first_in
+8. first_won
+9. second_in
+10. second_won
+11. bk_pts
+12. bp_saved
+13. return_pts
+14. return_pts_won
+15. winners
+16. winners_fh
+17. winners_bh
+18. unforced
+19. unforced_fh
+20. unforced_bh
