@@ -10,8 +10,12 @@ https://github.com/JeffSackmann/tennis_MatchChartingProject
 4. return_outcomes
 5. servebasics
 6. servedirection
-7. serveinfluence
-8. shotdirection
+7. shotdirection
+8. surfaces
+9. win_lose
+
+![]C:/Users/Silvia/Documents/Learn R/Proiect/raw data files)
+
 
 Initial format of the data - variables:
 
