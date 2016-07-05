@@ -1,7 +1,6 @@
 
 
-
-
+#### Datasets
 
 Csv files used from:
 
@@ -22,7 +21,9 @@ https://github.com/JeffSackmann/tennis_MatchChartingProject
 
 Initial format of the data - variables:
 
-1. match_id (including date, gender, tournament, round, player 1 and player 2 separated by "-")
+##### Overview1 
+
+1. match_id (including date, gender, tournament, round, player 1 and player 2 separated by "-") - first variable in every file
 2. player
 3. set
 4. serve_pts
@@ -43,11 +44,15 @@ Initial format of the data - variables:
 19. unforced_fh
 20. unforced_bh
 
+##### forced_errors
+
 21. row
 22. pts
 23. won
 24. forced
-return_depth
+
+##### return_depth
+
 25. returnable
 26. shallow
 27. deep
@@ -57,7 +62,9 @@ return_depth
 31. err_deep
 32. err_wide
 33. err_wide_deep
-return_outcomes
+
+##### return_outcomes
+
 34. return_pts
 35. return_pts_won
 36. returnable_won
@@ -65,7 +72,9 @@ return_outcomes
 38. in_play_won
 39. return_winners
 40. total_shots
-servebasics
+
+##### servebasics
+
 41. pts_on_serve
 42. pts_on_serve_won
 43. unret
@@ -74,7 +83,9 @@ servebasics
 46. wide
 47. body
 48. t
-servedirection
+
+##### servedirection
+
 49. deuce_wide
 50. deuce_middle
 51. deuce_t
@@ -87,10 +98,20 @@ servedirection
 58. err_wide_deep
 59. err_foot
 60. err_unknown
-shotdirection
+
+##### shotdirection
+
 61. crosscourt
 62. down_middle
 63. down_the_line
 64. inside_out
 65. inside_in
 
+#### Data wrangling
+
+Using the dplyr and tidyr packages, the following wrangling was done to the datasets:
+
+* Separate match_id into 6 different columns: Date, gender, tournament, round, player 1 and player 2
+* Subset only data that contains Simona Halep as player 1 or player 2
+* Transform variable Date in 3 columns : Year, Month, Day
+* Combine dataset overview_total( from the initial Overview1 subsetting by Simona Halep and the total number of data per match) with win_lose(contains 2 columns win or lose and number of sets played) and surface(contains Tournament and Surface) - cbind() and left_join() used
