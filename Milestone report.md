@@ -1,5 +1,14 @@
 #### Overview
 
+2016 - Current ranking 5; won Madrid; semifinalist at Sydney; quarterfinalist at Indian Wells, Miami and Wimbledon
+
+2015 - Best season to date (finishing No.2); won three WTA titles at Shenzhen, Dubai and Indian Wells; runner-up twice at Toronto and Cincinnati; semifinalist four times at Miami, Stuttgart, Rome and US Open; quarterfinalist three times at Australian Open, Birmingham and Guangzhou
+
+2014 - First Top 10 season (finishing No.3); won two WTA titles at Doha and Bucharest; runner-up three times at Madrid, Roland Garros and WTA Finals; semifinalist twice at Indian Wells and Wimbledon; quarterfinalist three times at Australian Open, Cincinnati and Beijing;having started the year at No.11, made Top 10 debut on January 27, Top 5 debut on March 17 and set career-high No.2 on August 11 (highest-ranked Romanian in WTA history)
+
+2013 - Near-Top 10 season (finishing No.11); went 7-9 in first nine WTA main draws, reaching 3 round once and 2 round five times but falling 1 round three times and in qualifying once; went 43-8 in next 14 WTA main draws, highlighted by first six WTA titles at Nürnberg, 's-Hertogenbosch, Budapest, New Haven, Moscow and Sofia; also semifinalist at Rome and quarterfinalist at Cincinnati; made Top 20 debut on August 26 (after New Haven; rose from No.23 to No.19) and peaked at No.11 on November 4 year-end rankings
+
+2012 - First Top 50 season; runner-up at Brussels; semifinalist at Fès; quarterfinalist twice
 
 
 #### Datasets
