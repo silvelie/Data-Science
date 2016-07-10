@@ -17,7 +17,7 @@ Csv files used from:
 
 https://github.com/JeffSackmann/tennis_MatchChartingProject
 
-1. forced_errors
+1. Forced_errors
 2. Overview
 3. return_depth
 4. return_outcomes
@@ -26,6 +26,7 @@ https://github.com/JeffSackmann/tennis_MatchChartingProject
 7. shotdirection
 8. surfaces
 9. win_lose
+10. games
 
 ![Fig.1](https://github.com/silvelie/Data-Science/blob/master/raw%20data%20files.png)
 
@@ -55,7 +56,7 @@ Initial format of the data - variables:
 19. unforced_fh
 20. unforced_bh
 
-##### forced_errors
+##### Forced_errors
 
 21. row
 22. pts
@@ -117,6 +118,10 @@ Initial format of the data - variables:
 63. down_the_line
 64. inside_out
 65. inside_in
+
+##### surfaces
+##### win_lose
+##### games
 
 #### Data wrangling
 
