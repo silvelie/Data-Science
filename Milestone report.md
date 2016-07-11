@@ -5,9 +5,13 @@
 
 
 **2012** - First Top 50 season; runner-up at Brussels; semifinalist at Fès; quarterfinalist twice
+
 **2013** - Near-Top 10 season (finishing No.11); went 7-9 in first nine WTA main draws, reaching 3 round once and 2 round five times but falling 1 round three times and in qualifying once; went 43-8 in next 14 WTA main draws, highlighted by first **six WTA titles** at Nürnberg, 's-Hertogenbosch, Budapest, New Haven, Moscow and Sofia; also semifinalist at Rome and quarterfinalist at Cincinnati; made Top 20 debut on August 26 (after New Haven; rose from No.23 to No.19) and peaked at No.11 on November 4 year-end rankings
+
 **2014** - First Top 10 season (finishing No.3); won **two WTA titles** at Doha and Bucharest; runner-up three times at Madrid, Roland Garros and WTA Finals; semifinalist twice at Indian Wells and Wimbledon; quarterfinalist three times at Australian Open, Cincinnati and Beijing;having started the year at No.11, made Top 10 debut on January 27, Top 5 debut on March 17 and set career-high No.2 on August 11 (highest-ranked Romanian in WTA history)
+
 **2015** - Best season to date (finishing No.2); won **three WTA titles** at Shenzhen, Dubai and Indian Wells; runner-up twice at Toronto and Cincinnati; semifinalist four times at Miami, Stuttgart, Rome and US Open; quarterfinalist three times at Australian Open, Birmingham and Guangzhou
+
 **2016** - Current ranking 5; won **one WTA title** at Madrid; semifinalist at Sydney; quarterfinalist at Indian Wells, Miami and Wimbledon
 
 The figures presented above show a good trend. In 2013 at 23 years old she won her first six titles, 2 on clay, 1 on grass and 2 on hard courts. Halep became the only player of the year to win titles on clay, grass, hard, and indoor courts, as well as the second most successful player behind Serena Williams in terms of number of titles won. 2014 and 2015 were transitional years in which she tried to get more used with the pressure of being a top player. The beginning of 2016 saw a Simona Halep struggling with injuries and a loss of form. Her first title of the year came in May in Madrid.
@@ -139,4 +143,9 @@ Using the dplyr and tidyr packages, the following wrangling was done to the data
 #### Data analysis
 
 The analysis covers 152 matches over a span of four years from May 2013 to June 2016. From the 152 matches, 114 were wins (75%) and 38 were losses(25%).
+* A preliminary analysis shows:
++ the wins and losses by Tournament, Surface and Year
++ the average number of winners and unforced errors
+
+
 
