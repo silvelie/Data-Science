@@ -143,9 +143,10 @@ Using the dplyr and tidyr packages, the following wrangling was done to the data
 #### Data analysis
 
 The analysis covers 152 matches over a span of four years from May 2013 to June 2016. From the 152 matches, 114 were wins (75%) and 38 were losses(25%).
-* A preliminary analysis shows:
+
+A preliminary analysis shows:
 + the wins and losses by Tournament, Surface and Year
-+ the average number of winners and unforced errors
++ the average number of winners (20 winners is the mean on clay, followed very closely by the mean on grass and hard courts) and unforced errors ( the mean between 20 and 28, on grass it tends to be smaller).
 
 ![Fig.2](https://github.com/silvelie/Data-Science/blob/master/Win_lose_by_tournament_surface_year.png)
 
