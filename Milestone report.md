@@ -147,5 +147,8 @@ The analysis covers 152 matches over a span of four years from May 2013 to June 
 + the wins and losses by Tournament, Surface and Year
 + the average number of winners and unforced errors
 
+![Fig.2](https://github.com/silvelie/Data-Science/blob/master/Win_lose_by_tournament_surface_year.png)
 
+![Fig.3](https://github.com/silvelie/Data-Science/blob/master/winners_by_surface.png)
 
+![Fig.4](https://github.com/silvelie/Data-Science/blob/master/unforced_by_surface.png)
