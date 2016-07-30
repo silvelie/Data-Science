@@ -12,7 +12,7 @@
 
 **2015** - Best season to date (finishing No.2); won **three WTA titles** at Shenzhen, Dubai and Indian Wells; runner-up twice at Toronto and Cincinnati; semifinalist four times at Miami, Stuttgart, Rome and US Open; quarterfinalist three times at Australian Open, Birmingham and Guangzhou
 
-**2016** - Current ranking 5; won **one WTA title** at Madrid; semifinalist at Sydney; quarterfinalist at Indian Wells, Miami and Wimbledon
+**2016** - Current ranking 5; won **two WTA titles** at Madrid and Bucharest; semifinalist at Sydney; quarterfinalist at Indian Wells, Miami and Wimbledon
 
 The figures presented above show a good trend. In 2013 at 23 years old she won her first six titles, 2 on clay, 1 on grass and 2 on hard courts. Halep became the only player of the year to win titles on clay, grass, hard, and indoor courts, as well as the second most successful player behind Serena Williams in terms of number of titles won. 2014 and 2015 were transitional years in which she tried to get more used with the pressure of being a top player. The beginning of 2016 saw a Simona Halep struggling with injuries and a loss of form. Her first title of the year came in May in Madrid.
 
